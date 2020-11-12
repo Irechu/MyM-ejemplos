@@ -6,5 +6,5 @@ Consisten en codigos de ejemplo para mostrar de manera práctica el funcionamien
   - RISING/FALLING: Usamos un interruptor para mostrar que entra en la rutina de interrupción cuando se hace el cambio de flanco cerrespondiente.
   - CHANGE: Usamos un modulo bluetooth para mandar una señal a un pin, este al detectar un cambio en el flanco cambiará el modo de visualización de la pantalla. En esta se muestran los datos de humedad o de temperatura, según este modo, tomados por un dht11.
 - PWM
-  -Ejemplo 1: usaremos una LDR, si hay poca luz en el ambiente, se encenderá más el LED
-  -Ejemplo 2: usaremos un buzzer y el PWD para realizar diferentes sonidos.
+  - Ejemplo 1: usaremos una LDR, si hay poca luz en el ambiente, se encenderá más el LED
+  - Ejemplo 2: usaremos un buzzer y el PWD para realizar diferentes sonidos.
